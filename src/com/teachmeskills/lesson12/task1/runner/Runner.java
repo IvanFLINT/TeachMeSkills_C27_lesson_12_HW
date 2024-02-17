@@ -1,6 +1,6 @@
 package com.teachmeskills.lesson12.task1.runner;
 
-import com.teachmeskills.lesson12.task1.constants.iConstants;
+import com.teachmeskills.lesson12.constants.iConstants;
 
 import java.util.Scanner;
 import java.util.regex.Matcher;
